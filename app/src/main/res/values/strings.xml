@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_summary">This quiz exercises is to test your grammar capability, please select the options below that best complete the sentences</string>
+        <string name="question1title">Quiz 1</string>
+        <string name="question2title">Quiz 2</string>
+        <string name="question3title">Quiz 3</string>
+        <string name="question4title">Quiz 4</string>
+        <string name="question5title">Quiz 5</string>
+        <string name="question1"> He sometimes reads the newspaper,_________</string>
+        <string name="Q1_arent_he">aren\'t He?</string>
+        <string name="Q1_did_he">did He?</string>
+        <string name="Q1_didnt_he">didn\'t He?</string>
+        <string name="Q1_doesnt_he">doesn\'t He?</string>
+        <string name="question2">You are Nigerian,__________</string>
+        <string name="Q2_arent_you">aren\'t you?</string>
+        <string name="Q2_did_she">did she?</string>
+        <string name="Q2_hasnt_she">hasn\'t she?</string>
+        <string name="Q2_was_she">was she?</string>
+        <string name="question3">They had a nice weekend,_____________</string>
+        <string name="Q3_did_they">did they?</string>
+        <string name="Q3_hasnt_they">hasn\'t they?</string>
+        <string name="Q3_didnt_they">didn\'t they?</string>
+        <string name="Q3_why_they">why they?</string>
+        <string name="question4">Mary has answered the teacher\'s question,__________</string>
+        <string name="Q4_hasnt_she">hasn\'t she?</string>
+        <string name="Q4_has_she">has she?</string>
+        <string name="Q4_she_dit">she did?</string>
+        <string name="Q4_wont_she">won\'t she?</string>
+        <string name="question5">Tom and Maria will arrive at Heathrow,__________</string>
+        <string name="Q5_hasnt_they">hasn\'t they</string>
+        <string name="Q5_arent_they">aren\'t they?</string>
+        <string name="Q5_wont_they">won\'t they?</string>
+        <string name="Q5_doesnt_they">doesn\'t they?</string>
+        <string name="submit">Submit</string>
+
+    </resources>
